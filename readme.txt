@@ -1,3 +1,5 @@
+***
+DELETE .gitignore all folder in image preepocess
 
 Abstract:
 
